@@ -1,1 +1,2 @@
 Hi, Welcome to GitHub Mr. User_B. :)
+Updated in FolderA by Developer B.
